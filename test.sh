@@ -1,2 +1,2 @@
-echo "Test Succesful ⭕"
-
+#!/bin/bash 
+echo "Test Succesfull ⭕"
